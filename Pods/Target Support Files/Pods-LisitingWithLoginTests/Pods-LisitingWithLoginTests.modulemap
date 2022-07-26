@@ -1,0 +1,6 @@
+framework module Pods_LisitingWithLoginTests {
+  umbrella header "Pods-LisitingWithLoginTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

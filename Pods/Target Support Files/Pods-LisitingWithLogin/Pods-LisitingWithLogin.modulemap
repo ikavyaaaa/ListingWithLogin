@@ -1,0 +1,6 @@
+framework module Pods_LisitingWithLogin {
+  umbrella header "Pods-LisitingWithLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
